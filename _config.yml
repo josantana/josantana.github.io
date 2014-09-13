@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Jo Santana
+tagline:          UI e UX
+url:              http://josantana.me
+paginate:         1
+baseurl:          /
+author:
+  name:           Jo Santana
+  url:            https://twitter.com/josantana
+  email:          jo@josantana.me
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
