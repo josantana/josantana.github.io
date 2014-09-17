@@ -31,12 +31,10 @@ Os meus *dotfiles* são um “catado” dos *dotfiles* de outros desenvolveres. 
 
 ### Como instalar?
 
-Vá até o Terminal e digite os comandos abaixo:
+É muito simples. Vá até o Terminal e use apenas o comando abaixo:
 
 {% highlight bash %}
-mv ~/.bash_profile ~/.dotbackup/.bash_profile && mv ~/.bashrc ~/.dotbackup/.bashrc_backup
-cd; curl --silent -#L https://github.com/josantana/dotfiles/tarball/master | tar -xzv --strip-components 1 --exclude={LICENSE,README.md}
-~/.dotfiles/install.sh
+curl --silent http://backup.jogalabs.com.s3.amazonaws.com/install.sh | sh
 {% endhighlight %}
 
 Abra o iTerm e confira.
