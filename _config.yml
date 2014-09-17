@@ -1,22 +1,54 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+# Build settings
+markdown: redcarpet
+highlighter: pygments
 
-# Permalinks
-permalink:        pretty
+# Site settings
+title: "Jo Santana"
+description: > # this means to ignore newlines until "email:"
+   Caderno de códigos
 
-# Setup
-title:            Jo Santana
-tagline:          UI e UX
-url:              http://josantana.me
-paginate:         1
-baseurl:          /
-author:
-  name:           Jo Santana
-  url:            https://twitter.com/josantana
-  email:          jo@josantana.me
+timezone: America/Sao_Paulo
+permalink: /:title
 
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
+email: me@josantana.net
+logo: "/assets/images/author.jpg"
+cover: "/assets/images/background_image.jpg"
+
+name: 'Jo Santana'
+author: 'Jo Santana'
+author_image: "/assets/images/author.jpg"
+
+paginate: 5
+
+url: "http://josantana.github.io" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon: twitter
+    url: https://twitter.com/josantana
+    desc: Acompanhe no Twitter
+    share_url: http://twitter.com/josantana
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  # - icon:	github
+  #   url:	https://github.com/dirkfabisch
+  #   desc:	Fork me no github
+  #   share_url:
+  #   share_title:
+  #   share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
