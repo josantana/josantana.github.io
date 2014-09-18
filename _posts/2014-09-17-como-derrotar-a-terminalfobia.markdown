@@ -33,7 +33,7 @@ Em seguida, abra as preferências do iTerm e em General, marque o checkbox abaix
 
 <img src="/assets/articles/como-derrotar-a-terminalfobia/iterm-setup.png" alt="Alterando as configurações do iTerm">
 
-Em seguida, baixe estas [configurações](https://www.dropbox.com/s/ewngtbznbf9cqbm/com.googlecode.iterm2.plist?dl=0) e substitua pelas suas.
+Em seguida, baixe [estas configurações](https://www.dropbox.com/s/ewngtbznbf9cqbm/com.googlecode.iterm2.plist?dl=0) e substitua pelas suas.
 
 Agora seu iTerm deve estar um pouco mais *classudo*:
 
@@ -49,9 +49,9 @@ Mas isso é só o começo. Continue comigo.
 
 ## Passo #2: Adote dotfiles bacanas de algum outro desenvolvedor
 <br/>
-*Dotfiles* são arquivos de configuração que dão super poderes ao seu Mac e/ou Terminal. Alguns mexem em configurações avançadas do Mac (aquelas que não estão acessíveis através das Preferências de Sistema), outros deixam o Terminal parecido com seu editor preferido. Enfim, cada *dotfile* libera um poder diferente. Eles são chamados assim porque o nome dos arquivos começam com um “.”. E por ter esse ponto no nome, eles ficam escondidos no sistema.
+*Dotfiles* são arquivos de configuração que dão super poderes ao seu Mac e/ou Terminal. Alguns mexem em configurações avançadas do Mac (aquelas que não estão acessíveis através das Preferências de Sistema), outros deixam o Terminal parecido com seu editor preferido. Enfim, cada *dotfile* libera um poder diferente. Eles são chamados assim porque o nome dos arquivos começam com um ponto. E por ter esse ponto no nome, eles ficam escondidos no sistema.
 
-Existem diversos *dotfiles* no [GitHub](http://dotfiles.github.io), alguns criados por desenvolvedores famosos (como o [Paul Irish](http://www.paulirish.com/) e o [Mathias Bynens](https://mathiasbynens.be/)), e outros por caras como eu - <img src="https://abs.twimg.com/emoji/v1/72x72/1f605.png" width="24" style="margin-bottom: -5px;">. Nos próximos parágrafos vou ensinar como instalar [meus *dotfiles*](https://github.com/josantana/dotfiles) na sua máquina e mais: *Explicar o que cada um faz*. Mas de qualquer forma, recomendo que você dê uma checada nos demais.
+Existem diversos *dotfiles* no [GitHub](http://dotfiles.github.io), alguns criados por desenvolvedores famosos (como o [Paul Irish](http://www.paulirish.com/) e o [Mathias Bynens](https://mathiasbynens.be/)), e outros por caras como eu - <img src="https://abs.twimg.com/emoji/v1/72x72/1f605.png" width="24" style="margin-bottom: -5px;">. Nos próximos parágrafos vou ensinar como instalar [meus *dotfiles*](https://github.com/josantana/dotfiles) na sua máquina e mais: *Explicar o que cada um faz*.
 
 #### Como instalar?
 
