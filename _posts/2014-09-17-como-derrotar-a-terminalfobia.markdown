@@ -6,6 +6,9 @@ categories: terminal
 tags: terminal bash
 image: /assets/articles/como-derrotar-a-terminalfobia/background.jpg
 ---
+
+<img src="/assets/articles/como-derrotar-a-terminalfobia/background.jpg" alt="Como derrotar a Terminalfobia?" style="display: none;">
+
 Por muito tempo fugi das linhas de comando. Fazer o quê? Eu sou um cara visual. Prefiro softwares com interfaces que sejam, de preferência, agradáveis e fáceis de usar. Afinal, se meu trabalho é proporcionar essa experiência para os outros, porque eu não posso querer isso também no meu dia-a-dia?
 
 Fora que linhas de comando me remetem aos tempos de DOS, computadores 386, e todo tipo de coisa ultrapassada. Mas por trás de todo esse preconceito bobo, a verdade é que linhas de comando são intimidantes. E essa fobia acabou me distanciando de novidades bacanas que surgiam  para nos ajudar nas tarefas do dia-a-dia.
