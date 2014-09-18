@@ -7,7 +7,7 @@ tags: terminal bash
 image: /assets/articles/como-derrotar-a-terminalfobia/background.jpg
 ---
 
-<img src="/assets/articles/como-derrotar-a-terminalfobia/background.jpg" alt="Como derrotar a Terminalfobia?" style="display: none;">
+<img src="/assets/articles/como-derrotar-a-terminalfobia/background.jpg" width="1" height="1" style="float: right;">
 
 Por muito tempo fugi das linhas de comando. Fazer o quê? Eu sou um cara visual. Prefiro softwares com interfaces que sejam, de preferência, agradáveis e fáceis de usar. Afinal, se meu trabalho é proporcionar essa experiência para os outros, porque eu não posso querer isso também no meu dia-a-dia?
 
